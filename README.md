@@ -18,7 +18,7 @@ QueryPDF allows users to upload PDF documents and interactively query their cont
 
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/your-username/QueryPDF.git
+    git clone https://github.com/ViditDhull/Nextgen-GPT-AI-Hackathon.git
     cd QueryPDF
     ```
 
